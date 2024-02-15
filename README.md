@@ -1,3 +1,4 @@
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/6cec193a-3934-428a-b280-fe093116397d)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
