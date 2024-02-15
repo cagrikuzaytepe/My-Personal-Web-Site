@@ -26,11 +26,15 @@ Welcome to the repository for my personal website developed using React.
 
 This website is a representation of my journey in web development. I've utilized React to build a responsive and interactive personal space where I showcase my projects and share my experiences.
 
-## Getting Started
+## Technologies Used
+- React
+- HTML
+- CSS
 
-Technologies Used
-.React
-.HTML
-.CSS
+## How to Contribute
+Feel free to explore the code and provide any feedback or suggestions. Contributions are more than welcome! Whether it's fixing a bug, enhancing a feature, or suggesting improvements, your input is valuable.
 
-Feel free to explore the code and provide any feedback or suggestions. Contributions are welcome!
+## Feedback
+I appreciate any feedback you may have. Please create an issue on the repository or reach out to me directly with your thoughts.
+
+Thank you for your interest and contributions!
