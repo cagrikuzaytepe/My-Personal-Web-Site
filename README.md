@@ -22,9 +22,6 @@ Welcome to the repository for my personal website developed using React.
 
 *Screenshots of the About Me Page*
 
-![Projects Page](images/projects_page.png)
-*Screenshot of the Projects Page*
-
 ## Overview
 
 This website is a representation of my journey in web development. I've utilized React to build a responsive and interactive personal space where I showcase my projects and share my experiences.
@@ -32,7 +29,8 @@ This website is a representation of my journey in web development. I've utilized
 ## Getting Started
 
 Technologies Used
-React
-HTML
-CSS
+.React
+.HTML
+.CSS
+
 Feel free to explore the code and provide any feedback or suggestions. Contributions are welcome!
