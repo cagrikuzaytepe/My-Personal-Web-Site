@@ -1,6 +1,6 @@
 # My Personal Website
 
-Welcome to the repository for my personal website developed using React.
+Welcome to the repository of my personal website, built using React, HTML, and CSS. 
 
 ## Preview
 
