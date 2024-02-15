@@ -1,71 +1,38 @@
-![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/6cec193a-3934-428a-b280-fe093116397d)
-# Getting Started with Create React App
+# My Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the repository for my personal website developed using React.
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/67df03b0-2a01-4ef5-9081-38d8570e7db4)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/aae670d2-5292-4a2e-930c-c173a9af350b)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/221bee3f-f2b9-449e-bcf8-a990c937d91a)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/c80fcf06-8325-483b-8ef7-1e0a94b84379)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/3b6bf045-576f-4035-b385-fb014796732f)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/51daa65a-c081-4c9e-869a-38a3a5cb94dc)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/7d83ebe4-5535-4135-9c08-6de5257acc32)
 
-### `npm start`
+*Screenshots of the Home Page*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/df945ce7-260e-4fae-abb8-d79c47beb549)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/e37de1ec-1867-4acd-bf38-f5a282b86d18)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/993433a8-e148-4f7d-b28f-17f82bd28c8a)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/fd9a541e-e440-4146-9dda-0f687fdb515f)
+![image](https://github.com/cagrikuzaytepe/My-Personel-Web-Site/assets/112905129/6c0c5f6e-262d-47ff-b04d-6496a7194ee1)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*Screenshots of the About Me Page*
 
-### `npm test`
+![Projects Page](images/projects_page.png)
+*Screenshot of the Projects Page*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overview
 
-### `npm run build`
+This website is a representation of my journey in web development. I've utilized React to build a responsive and interactive personal space where I showcase my projects and share my experiences.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Technologies Used
+React
+HTML
+CSS
+Feel free to explore the code and provide any feedback or suggestions. Contributions are welcome!
