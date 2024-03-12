@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/python.png",
+      "title": "Python",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/java.png",
+      "title": "Java",
+      "description": ""
+    },
+    {
+      "id": "3",
+      "src": "./img/c++.png",
+      "title": "C++",
+      "description": ""
+    },
+    {
+      "id": "4",
+      "src": "./img/react.ico",
+      "title": "React (Web Development)",
+      "description": ""
+    },
+    {
+      "id": "5",
+      "src": "./img/flutter.png",
+      "title": "Flutter (Mobile App Development)",
+      "description": ""
+    }
+  ]
+}
